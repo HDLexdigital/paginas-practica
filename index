@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Práctica de diseño</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f0f0f0; text-align: center; }
+    h1 { color: #2c3e50; }
+    p { color: #34495e; }
+    .caja { background: white; padding: 20px; margin: 50px auto; width: 60%; border-radius: 8px; }
+  </style>
+</head>
+<body>
+  <div class="caja">
+    <h1>Mi primera página de práctica</h1>
+    <p>Aquí experimento con mis propios diseños en GitHub Pages.</p>
+  </div>
+</body>
+</html>
